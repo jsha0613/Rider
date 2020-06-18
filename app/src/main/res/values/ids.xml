@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_bike" type="id" />
+    <item name="mapview" type="id" />
+    <item name="homeFragment" type="id" />
+</resources>
